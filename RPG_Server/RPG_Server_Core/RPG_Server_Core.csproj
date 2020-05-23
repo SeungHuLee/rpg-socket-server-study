@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>RPG_Server_Core</AssemblyName>
+    <RootNamespace>RPG_Server_Core</RootNamespace>
+  </PropertyGroup>
+
+</Project>
